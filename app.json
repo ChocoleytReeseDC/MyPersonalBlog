@@ -1,0 +1,6 @@
+{
+	"name": "MyPersonalBlog",
+	"description": "ReesePersonalBlog",
+	"repository": "https://github.com/ChocoleytReeseDC",
+	"image": "heroku/nodejs"
+}
